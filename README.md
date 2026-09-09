@@ -62,24 +62,6 @@ A web-based classroom management system designed to digitize academic and admini
 
 **Tech:** HTML • CSS • Bootstrap • JavaScript • Firebase • Face Recognition
 
----
-
-### ⚖️ MetroScan — Packaged Commodity Compliance System
-
-A Smart India Hackathon project designed to help detect compliance issues in packaged commodities under Legal Metrology regulations.
-
-**Core Features:**
-
-* Product label scanning
-* OCR-based information extraction
-* Automated compliance checking
-* Rule-based compliance engine
-* Inspector workflow
-* Manufacturer & retailer support
-* Citizen reporting
-* Compliance reports
-
-**Tech:** React • TypeScript • Vite • Bootstrap • Python • FastAPI • PostgreSQL • OCR
 
 ---
 
